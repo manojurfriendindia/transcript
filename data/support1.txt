@@ -1,0 +1,23 @@
+Customer: Hello, I placed an order on your website a week ago, and I still haven't received it. Can you help me track my package?
+
+Support Agent: I'm sorry to hear that you haven't received your order. I'd be happy to assist you. May I have your order number, please?
+
+Customer: Yes, it's 123456789.
+
+Support Agent: Thank you for providing the order number. Let me check the status of your package. Please bear with me for a moment.
+
+[Support Agent checks the order status]
+
+Support Agent: I apologize for the delay. It seems that your package is still in transit. The estimated delivery date was supposed to be yesterday. I understand how frustrating this can be. Let me investigate further with the shipping carrier and see what we can do to expedite the delivery for you. Could you please confirm your shipping address for me?
+
+Customer: My shipping address is 123 Main Street, Anytown, USA.
+
+Support Agent: Thank you for confirming your address. I will reach out to the shipping carrier right away and request an update on your package. I will also make a note of the delay in our system and escalate this issue to our logistics team. You can expect to hear back from us within 24 hours with an update. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I appreciate your help.
+
+Support Agent: You're welcome! I apologize again for the inconvenience caused. We will do our best to resolve this issue for you as quickly as possible. If you have any other questions or concerns, please don't hesitate to reach out to us. Thank you for your patience, and have a great day!
+
+Customer: Thank you. Goodbye!
+
+Support Agent: Goodbye, and have a great day too!
